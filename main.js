@@ -50,7 +50,7 @@ function getRandom(a,b) {
 //6.დაწერეთ ფუნქცია, რომელიც პარამეტრად მიიღებს სტრინგს: "boy" ან "girl" და დააბრუნებს 10 გოგოს ან ბიჭის სახელიდან ერთ-ერთს შემთხვევითად. (სახელები ჩაწერილი იქნება მასივში ამავე ფუნქციაში. კარგი იქნება გამოიყენოთ #5 პუნქტში დაწერილი ფუნქცია).
 
 function list() {
-    let girlsnames= ['Nata','Salome','Lana','Maka','Tamuna','Elena','Ana','Tika','Megi','Ia'];
+    let girlsnames= ['Lika','Salome','Lana','Maka','Tamuna','Elena','Ana','Tika','Megi','Ia'];
     let boysnames = ['Nika','Giorgi','Vaso','Lasha','Oto','Tornike','Levani','Luka','Makho','Erekle'];
     // let random=Math.floor(Math.random()*girls.lenght);
     // return girls[Math.floor(random*1000)%girls.lenght];
