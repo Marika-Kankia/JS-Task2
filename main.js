@@ -49,13 +49,12 @@ function getRandom(a,b) {
 
 //6.დაწერეთ ფუნქცია, რომელიც პარამეტრად მიიღებს სტრინგს: "boy" ან "girl" და დააბრუნებს 10 გოგოს ან ბიჭის სახელიდან ერთ-ერთს შემთხვევითად. (სახელები ჩაწერილი იქნება მასივში ამავე ფუნქციაში. კარგი იქნება გამოიყენოთ #5 პუნქტში დაწერილი ფუნქცია).
 
-function list() {
-    let girlsnames= ['Lika','Salome','Lana','Maka','Tamuna','Elena','Ana','Tika','Megi','Ia'];
-    let boysnames = ['Nika','Giorgi','Vaso','Lasha','Oto','Tornike','Levani','Luka','Makho','Erekle'];
-    // let random=Math.floor(Math.random()*girls.lenght);
-    // return girls[Math.floor(random*1000)%girls.lenght];
-    return girls[Math.floor(Math.random()*girlsnames.lenght)]
-};
+// function list() {
+//     let girlsnames= ['Lika','Salome','Lana','Maka','Tamuna','Elena','Ana','Tika','Megi','Ia'];
+//     let boysnames = ['Nika','Giorgi','Vaso','Lasha','Oto','Tornike','Levani','Luka','Makho','Erekle'];
+//     let girlsrandom=Math.floor(Math.random()*girlsnames.lenght);
+  
+// };
 
 
 
@@ -83,7 +82,7 @@ console.log('volume is'+ volume(m,n,h));
 
 
 
-//10* დაწერეთ რეკურსიული ფუნქცია, რომელიც პარამეტრებად მიიღებს ორ რიცხვს (x, y) და დააბრუნებს x ხარისხად y -ს. მაგალითად თუ ფუნქციამ მიიღო პარამეტრად 2 და 5 უნდა დააბრუნოს 2 -ს მეხუთე ხარისხი ანუ 32. გამოიყენეთ რეკურსია.
+//10 დაწერეთ რეკურსიული ფუნქცია, რომელიც პარამეტრებად მიიღებს ორ რიცხვს (x, y) და დააბრუნებს x ხარისხად y -ს. მაგალითად თუ ფუნქციამ მიიღო პარამეტრად 2 და 5 უნდა დააბრუნოს 2 -ს მეხუთე ხარისხი ანუ 32. გამოიყენეთ რეკურსია.
 
 
 
