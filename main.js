@@ -84,7 +84,7 @@ function isLeapYear(year) {
 
 
 function volume(m,n,h){
-	if (a > 0  && b > 0 && c > 0) {
+	if (m >0 && n>0 && h>0) {
 	return m*n*h;
    }
 }
