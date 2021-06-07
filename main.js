@@ -39,7 +39,7 @@ console.log('Area is' + AreaOfSquare(d));
 //4.დაწერეთ ფუნქცია, რომელიც Math.random() ფუნქციის გამოყენებით დააგენერირებს და დააბრუნებს 0-დან 100-მდე შემთხვევით რიცხვს.
 
 function getRandom() {
-    return Math.floor(Math.random() * 101);
+    return Math.floor(Math.random() * 101);   //*(maximum - minimum + 1)) + minimum;
 
 };
 
